@@ -57,8 +57,8 @@ To set up and run the chatbot:
 
 ### **1. MySQL Database (`pandeyji_eatery`)**
 Contains the following tables:
-- **`orders`** – Stores customer orders.
-- **`menu`** – Holds menu items and prices.
+- **`orders`** – Stores customer orders and total price.
+- **`food_items`** – Holds menu items and prices.
 - **`order_tracking`** – Tracks order statuses.
 
 ### **2. Python Scripts**
